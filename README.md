@@ -1,4 +1,5 @@
 # ReRoad-with-SpringBoot
+프로젝트 주소 : http://ec2-13-125-26-218.ap-northeast-2.compute.amazonaws.com/main
 ## 프로젝트 목표
 여행 정보 공유를 위한 웹 사이트 구현
 ## 프로젝트 설명
