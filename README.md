@@ -12,8 +12,13 @@
 ![image](https://user-images.githubusercontent.com/92851138/153350999-4bad16ba-b470-44f8-9bd3-414d559cb894.png)
 ## 담당 기능
 - 회원 가입 / 이메일 인증을 통한 가입 구현
-![image](https://user-images.githubusercontent.com/92851138/153349558-fd8c578b-2a5d-4ad1-b9a3-61137a30a77a.png)
+![join01](https://user-images.githubusercontent.com/92851138/153357284-b2f4e88e-f6b5-495a-ba1b-5b52b2ba9109.png)
 - 회원 가입 / OAuth 2.0 인증을 통한 가입 구현
-- 비밀번호 찾기 / 이메일 인증을 통해 임시 비밀번호 발급 및 DB 적용
+![join02](https://user-images.githubusercontent.com/92851138/153360535-366e07d1-d769-490f-af0d-178316327be6.png)
+- 비밀번호 찾기 / 이메일 인증을 통해 임시 비밀번호 발급 및 DB 적용<br>
+![forget](https://user-images.githubusercontent.com/92851138/153359376-1e7a67a3-1498-497d-995c-286c6e1bcaf5.png)
 - 로그인 / Spring Security를 통한 로그인 및 헤더 변경
+![header](https://user-images.githubusercontent.com/92851138/153360034-88d35ed7-2dd4-478f-a9b5-4afdf1ce3618.png)
 - 쪽지 / DB 연동을 통한 회원간 쪽지 송수신 및 조회, 삭제 기능
+![message](https://user-images.githubusercontent.com/92851138/153361019-535db9f9-4a69-4527-a991-9307938a381a.png)
+
